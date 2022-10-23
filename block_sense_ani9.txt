@@ -1,5 +1,12 @@
 ! online anime sites, manga
 ||anime8.ru^
+||9anime^
+||funimation.com^
+||gogoanime.dk^
+||animedao.to^
+||kissanime.com.ru^
+||contv.com^
+||masterani.one^
 ||animebuff.ru^
 ||animedao.to^
 ||animeflv.net^
