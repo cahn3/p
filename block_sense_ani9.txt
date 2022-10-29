@@ -111,3 +111,7 @@
 ||readmanga^
 ||remanga^
 ||mangasco^
+||rhythm-plus.com^
+||9anime.gs^
+||animebee.to^
+
