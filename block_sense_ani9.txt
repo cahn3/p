@@ -1,6 +1,7 @@
 ! online anime sites, manga
+||*anime*^
 ||anime8.ru^
-||9anime^
+||9anime*^
 ||funimation.com^
 ||gogoanime.dk^
 ||animedao.to^
